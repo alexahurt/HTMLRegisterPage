@@ -1,0 +1,14 @@
+
+body {
+    background-color: lightblue;
+}
+
+.border-style {
+    border-style: solid;
+}
+
+.css-classes label{
+    font-size: 32 px;
+    color: green;
+}
+
